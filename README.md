@@ -1,3 +1,1 @@
-Repository baru di PC lokal
-
-
+belajar git ignore gamelab
