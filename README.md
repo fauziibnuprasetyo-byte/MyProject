@@ -1,1 +1,1 @@
-belajar git ignore gamelab
+saya senang belajar git ignore gamelab
